@@ -1,1 +1,1 @@
-include ':app', ':jingledebugger1'
+include ':app', ':jingledebugger1', ':error-debugger'
